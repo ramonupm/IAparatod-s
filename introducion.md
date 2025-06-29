@@ -2,13 +2,11 @@
 
 ## 🤖 Que é a Intelixencia Artificial (IA)?
 
-A Intelixencia Artificial, ou IA, é cando ensinamos a un ordenador a facer cousas que normalmente só as persoas poden facer. Por exemplo:
+A Intelixencia Artificial (IA) é unha rama da informática que se ocupa de crear sistemas capaces de realizar tarefas que normalmente requiren intelixencia humana. Estas tarefas inclúen comprender a linguaxe, recoñecer imaxes, tomar decisións ou aprender da experiencia.
 
-- Aprender xogando
-- Falar e entender o que lle dicimos
-- Resolver problemas ou responder preguntas
+O termo “intelixencia artificial” foi acuñado en 1956 durante a histórica Conferencia de Dartmouth, onde un grupo de científicos propuxo que “todo aspecto da aprendizaxe ou calquera outra característica da intelixencia pode ser descrito con tanta precisión que unha máquina pode ser feita para simular ese proceso”.
 
-Pensa na IA como un robot invisible que pode axudarche a buscar cousas, facer debuxos, ou mesmo contar contos!
+A idea de máquinas intelixentes, porén, é anterior. O matemático británico Alan Turing, considerado un dos pais da IA, xa en 1950 propuxo unha proba —coñecida como o Test de Turing— para determinar se unha máquina pode mostrar un comportamento intelixente indistinguible do humano 1.
 
 ---
 
