@@ -169,6 +169,18 @@ Os chatbots modernos aprenden de grandes cantidades de datos e poden adaptarse a
 - **Meta AI:** Integrado en Facebook, Instagram e WhatsApp.
 - **DeepSeek Chat:** Popular en China, baseado en tecnoloxía aberta.
 - **Mistral Chat:** Enfocado en modelos lixeiros e eficientes.
-#### 📊 Comparativa de acceso e especialidades| Chatbot         | Acceso gratuíto | Subscrición/Premium         | Especialidades                          ||-----------------|------------------|-----------------------------|-----------------------------------------|| ChatGPT         | Si               | \$20/mes (Plus)             | Conversa, escritura, programación       || Gemini          | Si               | \$19.99/mes (AI Premium)    | Busca, produtividade, integración Google|| Copilot         | Si               | Pro+ (prezo variable)       | Office, traballo profesional            || Claude          | Limitado         | \$20/mes (Opus)             | Ética, análise de textos longos         || Perplexity      | Si               | \$20/mes (Pro)              | Busca con fontes                       || Grok            | Con X Premium    | \$30–\$40/mes (SuperGrok)   | Estilo informal, integración con X      |
+
+
+#### 📊 Comparativa de acceso e especialidades
+
+| Chatbot     | Acceso gratuíto | Subscrición/Premium        | Especialidades                           |
+|-------------|------------------|-----------------------------|------------------------------------------|
+| ChatGPT     | Si               | \$20/mes (Plus)             | Conversa, escritura, programación        |
+| Gemini      | Si               | \$19.99/mes (AI Premium)    | Busca, produtividade, integración Google |
+| Copilot     | Si               | Pro+ (prezo variable)       | Office, traballo profesional             |
+| Claude      | Limitado         | \$20/mes (Opus)             | Ética, análise de textos longos          |
+| Perplexity  | Si               | \$20/mes (Pro)              | Busca con fontes                         |
+| Grok        | Con X Premium    | \$30–\$40/mes (SuperGrok)   | Estilo informal, integración con X       |
+
 
 </details>
