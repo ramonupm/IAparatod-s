@@ -2,10 +2,9 @@
 
 [comment]: <> (this is a comment)
 
-
+## 🤖 Que é a Intelixencia Artificial (IA)?
 <details>
-
-<summary> ## 🤖 Que é a Intelixencia Artificial (IA)?</summary>
+<summary>(Expandir)</summary>
 
 A Intelixencia Artificial (IA) é unha rama da informática que se ocupa de crear sistemas capaces de realizar tarefas que normalmente requiren intelixencia humana. Estas tarefas inclúen comprender a linguaxe, recoñecer imaxes, tomar decisións ou aprender da experiencia.
 
