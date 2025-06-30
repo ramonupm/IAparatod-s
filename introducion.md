@@ -18,6 +18,9 @@ A idea de máquinas intelixentes, porén, é anterior. O matemático británico 
 
 ## 🧠 Tipos de Intelixencia Artificial
 
+
+<details>
+<summary>(Expandir)</summary>
 A IA pode clasificarse de moitas formas. Aquí exploramos dúas clasificacións moi útiles: **segundo como aprende** e **segundo a tecnoloxía que emprega**.
 
 ---
@@ -90,9 +93,14 @@ A IA tamén se pode clasificar segundo os métodos matemáticos e computacionais
 
 
 ---
+</details>
+
+
 
 ## 🕰️ A Historia da IA: Unha liña do tempo sinxela
 
+<details>
+<summary>(Expandir)</summary>
 Aquí tes unha viaxe no tempo para ver como foi medrando a IA:
 
 ### 📅 1950s – Os Primeiros Pasos
@@ -121,8 +129,12 @@ Aquí tes unha viaxe no tempo para ver como foi medrando a IA:
 - Aparecen programas como *ChatGPT* que poden escribir contos, responder preguntas ou axudar a programar.
 - A IA está en todas partes: móbiles, escolas, xogos e máis!
 
+</details>
+
 ## 💬 Que é un chatbot?
 
+<details>
+<summary>(Expandir)</summary>
 Un chatbot é un programa de ordenador que simula unha conversa con persoas, normalmente a través de texto, pero tamén pode usar voz. Utilízase en moitos contextos: atención ao cliente, educación, entretemento ou mesmo terapia.
 
 Hai dous tipos principais:
@@ -136,7 +148,7 @@ Os chatbots modernos aprenden de grandes cantidades de datos e poden adaptarse a
 
 
 
-## 🌟 Chatbots de IA máis relevantes en 2025
+### 🌟 Chatbots de IA máis relevantes en 2025
 
 Os chatbots de IA evolucionaron moito e hoxe ofrecen opcións para todos os públicos: desde ferramentas gratuítas ata servizos profesionais con subscrición. Aquí tes os máis destacados:
 
@@ -191,3 +203,5 @@ Os chatbots de IA evolucionaron moito e hoxe ofrecen opcións para todos os púb
 ---
 
 > 💡 *Moitos destes chatbots ofrecen versións web, apps móbiles e integracións con outras ferramentas. A elección depende do uso que lle queiras dar: educativo, profesional, creativo ou persoal.*
+
+<details>
