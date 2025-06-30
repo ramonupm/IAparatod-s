@@ -130,17 +130,5 @@ Aquí tes unha viaxe no tempo para ver como foi medrando a IA:
 - Aparecen programas como *ChatGPT* que poden escribir contos, responder preguntas ou axudar a programar.
 - A IA está en todas partes: móbiles, escolas, xogos e máis!
 
----
 
-## 🎉 Que Imos Aprender Neste Curso?
 
-Neste curso imos:
-
-- Descubrir como funciona a IA
-- Xogar con chatbots
-- Crear cousas usando IA
-- Pensar xuntos sobre como usar a IA de forma segura e divertida
-
----
-
-¡Benvidos/as ao mundo da IA! 🚀
