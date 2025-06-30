@@ -85,19 +85,6 @@ A IA tamén se pode clasificar segundo os métodos matemáticos e computacionais
 - **Exemplo:** Sistemas médicos como MYCIN nos anos 70.
 
 
-## 💬 Que é un chatbot?
-
-Un chatbot é un programa de ordenador que simula unha conversa con persoas, normalmente a través de texto, pero tamén pode usar voz. Utilízase en moitos contextos: atención ao cliente, educación, entretemento ou mesmo terapia.
-
-Hai dous tipos principais:
-
-    Chatbots baseados en regras: Responden segundo patróns predefinidos. Son limitados e só entenden frases concretas.
-    Chatbots con IA: Usan técnicas de aprendizaxe automática e linguaxe natural para comprender mellor o que dicimos e responder de forma máis flexible e natural.
-
-Un exemplo histórico é ELIZA (1966), que simulaba un psicólogo facendo preguntas baseadas nas respostas do usuario. Hoxe en día, temos sistemas moito máis avanzados como ChatGPT, que poden manter conversas complexas, escribir textos ou axudar a resolver problemas.
-
-Os chatbots modernos aprenden de grandes cantidades de datos e poden adaptarse a diferentes contextos. Por iso, son unha das aplicacións máis visibles e accesibles da IA na vida cotiá.
-
 ---
 
 ## 🕰️ A Historia da IA: Unha liña do tempo sinxela
@@ -130,5 +117,73 @@ Aquí tes unha viaxe no tempo para ver como foi medrando a IA:
 - Aparecen programas como *ChatGPT* que poden escribir contos, responder preguntas ou axudar a programar.
 - A IA está en todas partes: móbiles, escolas, xogos e máis!
 
+## 💬 Que é un chatbot?
+
+Un chatbot é un programa de ordenador que simula unha conversa con persoas, normalmente a través de texto, pero tamén pode usar voz. Utilízase en moitos contextos: atención ao cliente, educación, entretemento ou mesmo terapia.
+
+Hai dous tipos principais:
+
+    Chatbots baseados en regras: Responden segundo patróns predefinidos. Son limitados e só entenden frases concretas.
+    Chatbots con IA: Usan técnicas de aprendizaxe automática e linguaxe natural para comprender mellor o que dicimos e responder de forma máis flexible e natural.
+
+Un exemplo histórico é ELIZA (1966), que simulaba un psicólogo facendo preguntas baseadas nas respostas do usuario. Hoxe en día, temos sistemas moito máis avanzados como ChatGPT, que poden manter conversas complexas, escribir textos ou axudar a resolver problemas.
+
+Os chatbots modernos aprenden de grandes cantidades de datos e poden adaptarse a diferentes contextos. Por iso, son unha das aplicacións máis visibles e accesibles da IA na vida cotiá.
 
 
+
+## 🌟 Chatbots de IA máis relevantes en 2025
+
+Os chatbots de IA evolucionaron moito e hoxe ofrecen opcións para todos os públicos: desde ferramentas gratuítas ata servizos profesionais con subscrición. Aquí tes os máis destacados:
+
+### 🥇 ChatGPT (OpenAI)
+- **Modelos:** GPT-4o (multimodal), GPT-4.1 mini.
+- **Capacidades:** Conversas complexas, redacción de textos, programación, tradución, resumo, tarefas creativas.
+- **Acceso:**
+  - 🆓 Gratuito: acceso a GPT-4.1 mini con limitacións.
+  - 💳 Subscrición: *ChatGPT Plus* (\$20/mes) con acceso a GPT-4o, máis rápido e potente.
+  - 🏢 Versións empresariais dispoñibles con integracións avanzadas.
+
+### 🔍 Google Gemini
+- **Modelos:** Gemini 2.5 Pro, Gemini Ultra, Gemini Nano.
+- **Capacidades:** Busca, produtividade, integración con Gmail, Docs, Android.
+- **Acceso:**
+  - 🆓 Gratuito: Gemini 2.5 Pro con límites razoables.
+  - 💳 Premium: Gemini Ultra mediante *Google One AI Premium* (\$19.99/mes).
+
+### 💼 Microsoft Copilot
+- **Modelos:** Copilot Pro, Copilot Workspace, Copilot Spaces.
+- **Capacidades:** Integración con Word, Excel, Outlook; axuda profesional e creativa.
+- **Acceso:**
+  - 🆓 Gratuito: funcionalidades básicas en Bing e Edge.
+  - 💳 Subscrición: *Copilot Pro+* para uso profesional avanzado.
+
+### 🧠 Claude (Anthropic)
+- **Modelos:** Claude 4, Claude Opus, Claude Sonnet, Claude Haiku.
+- **Capacidades:** Conversas naturais, análise de textos longos, enfoque ético e seguro.
+- **Acceso:**
+  - 🆓 Gratuito: acceso limitado a Claude Sonnet.
+  - 💳 Subscrición: Claude Opus por \$20/mes.
+  - 🔧 API dispoñible para desenvolvedores.
+
+### 🔎 Perplexity AI
+- **Especialidade:** Busca con fontes e citas, ideal para investigación e estudo.
+- **Acceso:**
+  - 🆓 Gratuito: acceso completo con resultados con fontes.
+  - 💳 Subscrición: *Perplexity Pro* (\$20/mes) con modelos avanzados como GPT-4o e Claude.
+
+### 🤖 Grok (xAI)
+- **Modelos:** Grok 3, Grok 2.5.
+- **Capacidades:** Estilo informal, integración con X (Twitter), respostas contextuais.
+- **Acceso:**
+  - 💬 Incluído con *X Premium* (\$8/mes): acceso limitado (10 mensaxes cada 2 horas).
+  - 💳 *SuperGrok* (\$30–\$40/mes): acceso ilimitado e funcións prioritarias.
+
+### 🌐 Outros chatbots destacados
+- **Meta AI:** Integrado en Facebook, Instagram e WhatsApp.
+- **DeepSeek Chat:** Popular en China, baseado en tecnoloxía aberta.
+- **Mistral Chat:** Enfocado en modelos lixeiros e eficientes.
+
+---
+
+> 💡 *Moitos destes chatbots ofrecen versións web, apps móbiles e integracións con outras ferramentas. A elección depende do uso que lle queiras dar: educativo, profesional, creativo ou persoal.*
