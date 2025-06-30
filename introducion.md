@@ -1,5 +1,7 @@
 # Introdución ao Curso: IA para todas as idades
 
+[comment]: <> (this is a comment)
+
 ## 🤖 Que é a Intelixencia Artificial (IA)?
 
 A Intelixencia Artificial (IA) é unha rama da informática que se ocupa de crear sistemas capaces de realizar tarefas que normalmente requiren intelixencia humana. Estas tarefas inclúen comprender a linguaxe, recoñecer imaxes, tomar decisións ou aprender da experiencia.
