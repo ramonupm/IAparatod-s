@@ -12,16 +12,91 @@ A idea de máquinas intelixentes, porén, é anterior. O matemático británico 
 
 ---
 
+## 🧠 Tipos de Intelixencia Artificial
+
+A IA pode clasificarse de moitas formas. Aquí exploramos dúas clasificacións moi útiles: **segundo como aprende** e **segundo a tecnoloxía que emprega**.
+
+---
+
+### 1. 🧪 Segundo como aprende
+
+A aprendizaxe é unha parte fundamental da IA. Aquí explicamos os principais tipos de aprendizaxe con exemplos sinxelos:
+
+#### 📘 Aprendizaxe Supervisada
+- A IA recibe exemplos con respostas correctas.
+- Aprende a asociar entradas (como unha imaxe) con saídas (como “gato”).
+- **Exemplo:** Un sistema que aprende a recoñecer letras vendo moitas imaxes etiquetadas como “A”, “B”, “C”...
+
+> 🧠 Pensa como un estudante que estuda con exames corrixidos: ve os erros e aprende da corrección.
+
+#### 📙 Aprendizaxe Non Supervisada
+- A IA recibe datos sen etiquetas nin respostas.
+- Busca patróns ou grupos por si soa.
+- **Exemplo:** Un programa que agrupa cancións segundo o estilo musical sen saber os nomes dos estilos.
+
+> 🧠 É como explorar unha cidade nova sen mapa: vas descubrindo barrios parecidos entre si.
+
+#### 📗 Aprendizaxe por Reforzo
+- A IA aprende probando accións e recibindo recompensas ou castigos.
+- Aprende que decisións dan mellores resultados.
+- **Exemplo:** Un robot que aprende a camiñar ou un programa que aprende a xogar ao xadrez.
+
+> 🧠 Imaxina un xogo onde gañas puntos por facer o correcto: a IA aprende a maximizar eses puntos.
+
+#### 📕 Aprendizaxe Auto-supervisada (moderna)
+- A IA crea as súas propias tarefas a partir dos datos.
+- Moi usada en modelos grandes como ChatGPT.
+- **Exemplo:** Un modelo que aprende a predicir a seguinte palabra nun texto sen necesidade de etiquetas humanas.
+
+> 🧠 É como aprender lendo moitos libros e tentando adiviñar o que vén despois en cada frase.
+
+---
+
+### 2. ⚙️ Segundo a tecnoloxía que emprega
+
+A IA tamén se pode clasificar segundo os métodos matemáticos e computacionais que utiliza:
+
+#### 🧠 Redes Neuronais Artificiais
+- Inspiradas no cerebro humano.
+- Formadas por “neuronas” conectadas que procesan información.
+- **Exemplo:** Recoñecemento de imaxes ou voz.
+
+#### 🕸️ Aprendizaxe Profunda (*Deep Learning*)
+- Redes neuronais con moitas capas.
+- Moi potente para tarefas complexas como traducir idiomas ou xerar imaxes.
+- **Exemplo:** ChatGPT, DALL·E, recoñecemento facial.
+
+#### 📊 Árbores de Decisión e Bosques Aleatorios
+- Métodos que toman decisións baseadas en preguntas tipo “si/non”.
+- Boas para clasificacións sinxelas.
+- **Exemplo:** Detectar se un correo é spam ou non.
+
+#### 🧬 Algoritmos Xenéticos
+- Simulan a evolución natural para atopar solucións.
+- **Exemplo:** Optimizar rutas de entrega ou deseños industriais.
+
+#### 🌫️ Lóxica Difusa (*Fuzzy Logic*)
+- Permite traballar con conceptos imprecisos como “calor” ou “rápido”.
+- **Exemplo:** Control de temperatura nun aire acondicionado intelixente.
+
+#### 🧮 Sistemas Baseados en Regras
+- Usan regras escritas por persoas expertas.
+- Foron moi usados nas primeiras IA.
+- **Exemplo:** Sistemas médicos como MYCIN nos anos 70.
+
+
 ## 💬 Que é un chatbot?
 
-Un chatbot é como un robot que fala contigo por mensaxes. Non é unha persoa real, pero pode responder preguntas, contar chistes ou axudarche a facer os deberes.
+Un chatbot é un programa de ordenador que simula unha conversa con persoas, normalmente a través de texto, pero tamén pode usar voz. Utilízase en moitos contextos: atención ao cliente, educación, entretemento ou mesmo terapia.
 
-Por exemplo:
+Hai dous tipos principais:
 
-- Ti escribes: *"Estou triste"*
-- O chatbot responde: *"Queres falar sobre iso?"*
+    Chatbots baseados en regras: Responden segundo patróns predefinidos. Son limitados e só entenden frases concretas.
+    Chatbots con IA: Usan técnicas de aprendizaxe automática e linguaxe natural para comprender mellor o que dicimos e responder de forma máis flexible e natural.
 
-É como un amigo virtual que sempre está dispoñible para conversar.
+Un exemplo histórico é ELIZA (1966), que simulaba un psicólogo facendo preguntas baseadas nas respostas do usuario. Hoxe en día, temos sistemas moito máis avanzados como ChatGPT, que poden manter conversas complexas, escribir textos ou axudar a resolver problemas.
+
+Os chatbots modernos aprenden de grandes cantidades de datos e poden adaptarse a diferentes contextos. Por iso, son unha das aplicacións máis visibles e accesibles da IA na vida cotiá.
 
 ---
 
