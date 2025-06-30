@@ -2,7 +2,10 @@
 
 [comment]: <> (this is a comment)
 
-## 🤖 Que é a Intelixencia Artificial (IA)?
+
+<details>
+
+<summary> ## 🤖 Que é a Intelixencia Artificial (IA)?</summary>
 
 A Intelixencia Artificial (IA) é unha rama da informática que se ocupa de crear sistemas capaces de realizar tarefas que normalmente requiren intelixencia humana. Estas tarefas inclúen comprender a linguaxe, recoñecer imaxes, tomar decisións ou aprender da experiencia.
 
@@ -11,6 +14,8 @@ O termo “intelixencia artificial” foi acuñado en 1956 durante a histórica 
 A idea de máquinas intelixentes, porén, é anterior. O matemático británico Alan Turing, considerado un dos pais da IA, xa en 1950 propuxo unha proba —coñecida como o Test de Turing— para determinar se unha máquina pode mostrar un comportamento intelixente indistinguible do humano 1.
 
 ---
+
+</details>
 
 ## 🧠 Tipos de Intelixencia Artificial
 
