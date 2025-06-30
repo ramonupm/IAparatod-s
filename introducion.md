@@ -187,7 +187,7 @@ Os chatbots modernos aprenden de grandes cantidades de datos e poden adaptarse a
 
 
 <details>
-<summary>**Actividade**</summary>
+<summary>__Actividade__</summary>
 
 Abre dúas pestanas, unha co chatbot Eliza http://deixilabs.com/eliza.html e a outra con chatgpt. Compara as respostas.
 
