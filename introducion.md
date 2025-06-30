@@ -184,3 +184,26 @@ Os chatbots modernos aprenden de grandes cantidades de datos e poden adaptarse a
 
 
 </details>
+
+
+<details>
+<summary>**Actividade**</summary>
+
+Abre dúas pestanas, unha co chatbot Eliza http://deixilabs.com/eliza.html e a outra con chatgpt. Compara as respostas.
+
+</details>
+
+Exemplo de erro:
+
+are browser tabs called pesta;as in galician
+ChatGPT said:
+
+Yes! In Galician, “pestañas” in Spanish translates to “pestanas” (without the tilde) or “pestañas” spelled as “pestañas” with the tilde is Spanish, but Galician normally writes it as pestanas (without the ñ and tilde), since Galician doesn’t use “ñ”.
+
+So, the word for browser tabs in Galician is typically “pestanas”.
+
+For example:
+
+    Abrir unha nova pestana no navegador = Open a new browser tab
+
+So yes, “pestanas” is the right Galician word for browser tabs.
