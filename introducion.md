@@ -6,11 +6,40 @@
 <details>
 <summary>(Expandir)</summary>
 
-A Intelixencia Artificial (IA) é unha rama da informática que se ocupa de crear sistemas capaces de realizar tarefas que normalmente requiren intelixencia humana. Estas tarefas inclúen comprender a linguaxe, recoñecer imaxes, tomar decisións ou aprender da experiencia.
+A Intelixencia Artificial (IA) é unha rama da informática que se ocupa de crear sistemas capaces de realizar tarefas que normalmente requiren intelixencia humana.
+Estas tarefas inclúen comprender a linguaxe, recoñecer imaxes, tomar decisións ou aprender da experiencia.
 
 O termo “intelixencia artificial” foi acuñado en 1956 durante a histórica Conferencia de Dartmouth, onde un grupo de científicos propuxo que “todo aspecto da aprendizaxe ou calquera outra característica da intelixencia pode ser descrito con tanta precisión que unha máquina pode ser feita para simular ese proceso”.
 
-A idea de máquinas intelixentes, porén, é anterior. O matemático británico Alan Turing, considerado un dos pais da IA, xa en 1950 propuxo unha proba —coñecida como o Test de Turing— para determinar se unha máquina pode mostrar un comportamento intelixente indistinguible do humano 1.
+A idea de máquinas intelixentes, porén, é anterior.
+O matemático británico Alan Turing, considerado un dos pais da IA, xa en 1950 propuxo unha proba—coñecida como o Test de Turing—para determinar se unha máquina pode mostrar un comportamento intelixente indistinguible do humano.
+
+Cuestionario: Que é IA e que non o é?
+
+Considerarías as seguintes actividades como "intelixencia artificial" cando as leva a cabo un ordenador?
+
+x Input: dous números de 50 díxitos
+  Output: a multiplicación de ambos
+x Input: o título dunha novela 
+  Output: un comentario de texto nivel estudante de instituto.
+x Input: una secuencia de letras, por exemplo "xkeraou" ou "xeado"
+  Output: a resposta de si a secuencia determina unha palabra en galego ou non
+x Input: un acorde musical
+  Output: unha fuga barroca novedosa que inclúe dito acorde
+x Input: dous números de tres millóns de díxitos
+  Output: a multiplicación de ambos
+
+Que cres que determina ser ou non ser intelixencia artificial?
+
+Mencionar exemplos de IA na vida cotiá.
+
+Poesía de Grok
+Disque para crear guións de series
+imáxenes en RRSS de empresas (exemplo obradoiro)
+chatbots en webs
+chamadas de spam
+ 
+ocúrrenseche máis?
 
 ---
 
@@ -182,18 +211,22 @@ Os chatbots modernos aprenden de grandes cantidades de datos e poden adaptarse a
 | Perplexity  | Si               | \$20/mes (Pro)              | Busca con fontes                         |
 | Grok        | Con X Premium    | \$30–\$40/mes (SuperGrok)   | Estilo informal, integración con X       |
 
+(engadir deepseek)
+
 
 </details>
 
 
 <details>
-<summary>__Actividade__</summary>
+<summary><strong>Actividade</strong></summary>
 
 Abre dúas pestanas, unha co chatbot Eliza http://deixilabs.com/eliza.html e a outra con chatgpt. Compara as respostas.
 
 </details>
 
-Exemplo de erro:
+Erros baseados en imaxes
+
+Exemplo de erro baseado en texto:
 
 are browser tabs called pesta;as in galician
 ChatGPT said:
@@ -207,3 +240,26 @@ For example:
     Abrir unha nova pestana no navegador = Open a new browser tab
 
 So yes, “pestanas” is the right Galician word for browser tabs.
+
+Exercicio: pasar de un texto en portugués a un en galego cos seguintes cambios formalidade, puntuación, formato negritas e tal, nome do destinatario, nome da asignatura, 
+
+Estimado profesor Silva:
+
+Envíolle este email para solicitar unha reunión con vostede, preferentemente o día martes 25.
+
+O motivo da miña asistencia é o seguinte: desexo recibir información sobre o programa ERASMUS para poder solicitar o ano que ven unha estancia dun ano en Lodz, Polonia. Quizá vostede, na súa condición de coordinador do programa ERASMUS da Universidade de Santiago de Compostela, poda darme algún consello.
+
+Sen máis particulares, deséxolle unha feliz semana.
+
+Atentamente,
+
+Fulanito Carballeira
+
+
+
+Xogo cun número de comandos. Parellas.
+
+
+Cómo funciona chatgpt. Explicación intuitiva. Modelos probabilísticos. Exemplo con varios.
+
+
