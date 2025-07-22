@@ -4,5 +4,6 @@ Neste repositorio *Github* podedes atopar notas con información e outros materi
 
 # Índice do Curso: IA para todas as idades
 
-- [Materiais do 21 de xullo](21.md)
+- [Clase do 21 de xullo](21.md)
+- [Clase do 22 de xullo](22.md)
 
