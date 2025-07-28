@@ -8,3 +8,4 @@ Neste repositorio *Github* podedes atopar notas con información e outros materi
 - [Clase do 22 de xullo](22.md)
 - [Clase do 23 de xullo](23.md)
 - [Clase do 24 de xullo](24.md)
+- [Clase do 25 de xullo](25.md)
