@@ -6,9 +6,11 @@ Uno de los siguientes documentos contiene el problema que debemos solucionar. Id
 
 [archivo2](./proxectos/horario/Contrato_Carlos.pdf)
 
-[archivo3]
+[archivo3](./proxectos/horario/Contrato_Julia.pdf)
 
-[archivo4]
+[archivo4](./proxectos/horario/Contrato_Lidia.pdf)
 
-[archivo5]
+[archivo5](./proxectos/horario/Contrato_Marcos.pdf)
+
+[archivo6](./proxectos/horario/email.txt)
 
