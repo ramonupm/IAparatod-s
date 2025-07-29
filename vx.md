@@ -1,6 +1,6 @@
 El siguiente documento Excel contiene la siguiente información:
 
-[gastos](./proxectos/gastos_viaxes.xlsx)
+[gastos](./proxectos/gastos/gastos_viaxes.xlsx)
 
 las filas se corresponden con las personas de un grupo de amigos
 
