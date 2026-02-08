@@ -1,6 +1,0 @@
-![Dog 1](dogs/dog1.jpg)
-![Dog 2](dogs/dog2.jpg)
-![Dog 3](dogs/dog3.jpg)
-![Dog 4](dogs/dog4.jpg)
-![Dog 5](dogs/dog5.jpg)
-![Dog test](dogs/dogtest.jpg)
