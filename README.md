@@ -5,3 +5,5 @@ Neste repositorio *Github* podedes atopar notas con información e outros materi
 # Índice do Curso: IA para todas as idades
 
 - [Clase do 9 de febreiro](9.md)
+
+- [Clase do 10 de febreiro](10.md)
