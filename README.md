@@ -7,3 +7,5 @@ Neste repositorio *Github* podedes atopar notas con información e outros materi
 - [Clase do 9 de febreiro](9.md)
 
 - [Clase do 10 de febreiro](10.md)
+
+- [Clase do 12 de febreiro](12.md)
