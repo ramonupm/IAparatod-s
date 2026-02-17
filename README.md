@@ -13,3 +13,5 @@ Neste repositorio *Github* podedes atopar notas con información e outros materi
 - [Clase do 13 de febreiro](13.md)
 
 - [Clase do 16 de febreiro](16.md)
+
+- [Clase do 17 de febreiro](17.md)
